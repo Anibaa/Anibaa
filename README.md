@@ -1,7 +1,7 @@
 <h1 align="center">Yassine Aniba</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; Head of Digital @ Espérance Sportive de Tunis &nbsp;·&nbsp; Freelance
+  <b>Full-Stack Developer</b> &nbsp;·&nbsp; Head of Digital @ Taraji Store — Espérance Sportive de Tunis &nbsp;·&nbsp; Freelance
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 I build and ship production web products, mostly with **Next.js, React and TypeScript**.
 
-I lead the digital pole at **Espérance Sportive de Tunis**, where I build and run the club's official website and online store. Alongside that I work freelance — e-commerce platforms, marketplaces and business dashboards for clients across Tunisia. Most of what I build goes live and stays live: the projects below are running products, not demos.
+I work at **Taraji Store — Espérance Sportive de Tunis**, leading the club's digital pole: its official website, online store and surrounding platforms. Alongside that I work freelance — e-commerce, marketplaces and business dashboards for clients across Tunisia — and I build for the **IEEE Tunisia Section**, where I hold several volunteer roles. Most of what I build goes live and stays live: the projects below are running products, not demos.
 
 My background covers both web and IoT. I built MEAN-stack apps and ESP32 prototypes at **Orange Digital Center**, Angular front-ends with Node/Express APIs at **Nokia**, and PHP/MySQL applications at **Tunisair**.
 
@@ -68,16 +68,16 @@ Client work is developed in private repositories, so the links below go straight
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Taraji Store →](https://taraji-store.vercel.app)** | Official online store of Espérance Sportive de Tunis — the club's merchandise platform | Next.js 15 · React 19 · TypeScript · Tailwind · shadcn/ui |
-| **[EST Official →](https://est-off.vercel.app)** | Official site of Espérance Sportive de Tunis — news, fixtures, honours and club history | Next.js 15 · React 19 · TypeScript · Framer Motion |
+| **[Espérance Sportive de Tunis →](https://esperance-off.vercel.app)** | Official site of the club — news, fixtures, standings, archives and the wider Taraji ecosystem | Next.js 15 · React 19 · TypeScript · Framer Motion |
+| **[ICRA 2026 Satellite School →](https://icra-tep.ieee.tn/)** | Event platform for the IEEE RAS Tunisia Chapter's 3-day robotics school, on an official `ieee.tn` domain | Next.js 16 · React 19 · TypeScript · GSAP · Framer Motion |
+| **[Rymora Beauty →](https://rymora-beauty.vercel.app/)** | Storefront for a women's clothing and accessories boutique in Radès | Next.js 16 · React 19 · TypeScript · Tailwind |
 | **[TuniTest →](https://tunitest.vercel.app)** | Educational-books platform for Tunisian schools, covering primaire through lycée, with real school clients | Next.js 16 · React 19 · MongoDB · Framer Motion |
-| **[Tunisia Real Estate →](https://real-estate-marketplace-phi.vercel.app)** | Property marketplace — apartments, villas, houses and offices with advanced filtering and bilingual support | Next.js 16 · React 19 · TypeScript · Tailwind |
 | **[WorkTrack →](https://work-track-theta-rosy.vercel.app)** | Remote-team productivity tool — task tracking, time logging, team metrics, JWT auth and an AI assistant | Next.js 16 · React 19 · MongoDB · Tailwind |
 
 ## Experience
 
-- **Head of Digital** — Espérance Sportive de Tunis · *present*
-  Building and running the club's official website and online store.
+- **Head of Digital** — Taraji Store · Espérance Sportive de Tunis · *present*
+  Leading the club's digital pole: official website, online store and surrounding platforms.
 - **Freelance Full-Stack Developer** · *present*
   E-commerce platforms, marketplaces and dashboards for clients across Tunisia.
 - **Software Developer** — Next Consult
@@ -94,10 +94,21 @@ Client work is developed in private repositories, so the links below go straight
 - **Engineering Degree** — iTeam University · *2024 – 2027*
 - **Bachelor in Computer Systems Engineering** — Higher Institute of Applied Sciences and Technology of Mateur · *2021 – 2024* · graduated with high distinction
 
-## Community
+## IEEE Volunteering
 
-- **IEEE PES Tunisia Section — Coordinator**
-- **Student Entrepreneur** — University of Carthage
+Five years of volunteer leadership across the IEEE Tunisia Section — currently holding three concurrent roles.
+
+| Role | Organisation | Period |
+| :--- | :--- | :--- |
+| **Student Representative** | IEEE Tunisia Section | Jan 2025 – present |
+| **Chair** | IEEE RAS Tunisia Chapter | Jan 2025 – present |
+| **Secretary** | IEEE IAS Tunisia Section Chapter | Jan 2025 – present |
+| **Student Chapter Coordinator** | IEEE PES Tunisia Chapter | May 2024 – Jan 2025 |
+| **Chair** | IEEE ISSATM Student Branch | Sep 2022 – Dec 2023 |
+
+At IEEE PES I orchestrated events and initiatives and built strategic collaborations. As Chair of the **RAS Tunisia Chapter**, I also built and shipped the [ICRA 2026 Satellite School](https://icra-tep.ieee.tn/) platform listed above.
+
+Also a **Student Entrepreneur** at the University of Carthage.
 
 <!--
 TODO — hackathon awards.
@@ -111,10 +122,21 @@ section is intentionally left out until you supply the real details.
 
 More client work currently running in production:
 
+- **[Taraji Store](https://taraji-store.vercel.app)** — official merchandise store of Espérance Sportive de Tunis
+- **[Tunisia Real Estate](https://real-estate-marketplace-phi.vercel.app)** — property marketplace with advanced filtering and a bilingual interface
 - **[Vencia](https://vencia.vercel.app)** — site for a creative communication agency (branding, digital marketing, strategy)
-- **[Rymora Beauty](https://rymora-beauty.vercel.app)** — boutique storefront for a women's clothing and accessories shop in Radès
 - **[TacComm](https://dashboard-radio.vercel.app)** — radio communications dashboard
 - **[Taraji Store — Careers](https://taraji-store-internships.vercel.app)** — internship and PFE recruitment portal for Espérance Sportive de Tunis
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anibaa/Anibaa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anibaa/Anibaa/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Anibaa/Anibaa/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
