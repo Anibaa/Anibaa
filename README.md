@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/yassine-aniba-63a981224/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yassine-aniba.vercel.app">
+  <a href="https://yassine-aniba-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
