@@ -27,6 +27,8 @@ I lead the digital pole at **Espérance Sportive de Tunis**, where I build and r
 
 My background covers both web and IoT. I built MEAN-stack apps and ESP32 prototypes at **Orange Digital Center**, Angular front-ends with Node/Express APIs at **Nokia**, and PHP/MySQL applications at **Tunisair**.
 
+> **A note on my repositories:** my work is client-owned, so the source lives in private repositories. Everything listed below is live and linked — and I'm happy to walk through the code and architecture in an interview.
+
 ## Tech Stack
 
 **Frontend**
@@ -62,14 +64,15 @@ My background covers both web and IoT. I built MEAN-stack apps and ESP32 prototy
 
 ## Featured Projects
 
-| Project | What it is | Stack | Live |
-| :--- | :--- | :--- | :--- |
-| **[Taraji Store](https://github.com/Anibaa/Taraji-Store)** | Official online store of Espérance Sportive de Tunis — the club's merchandise platform | Next.js 15 · React 19 · TypeScript · Tailwind · shadcn/ui | **[Visit →](https://taraji-store.vercel.app)** |
-| **[EST Official](https://github.com/Anibaa/est-off)** | Official site of Espérance Sportive de Tunis — news, fixtures, honours and club history | Next.js 15 · React 19 · TypeScript · Framer Motion | **[Visit →](https://est-off.vercel.app)** |
-| **[TuniTest](https://github.com/Anibaa/najahi)** | Educational-books platform for Tunisian schools, covering primaire through lycée, with real school clients | Next.js 16 · React 19 · MongoDB · Framer Motion | **[Visit →](https://tunitest.vercel.app)** |
-| **[Tunisia Real Estate](https://github.com/Anibaa/real-estate-marketplace)** | Property marketplace — apartments, villas, houses and offices with advanced filtering and bilingual support | Next.js 16 · React 19 · TypeScript · Tailwind | **[Visit →](https://real-estate-marketplace-phi.vercel.app)** |
-| **[WorkTrack](https://github.com/Anibaa/WorkTrack)** | Remote-team productivity tool — task tracking, time logging and team metrics | Next.js 16 · React 19 · MongoDB · Tailwind | **[Visit →](https://work-track-theta-rosy.vercel.app)** |
-| **[Nour Elegance](https://github.com/Anibaa/Baraa)** | Luxury modest-fashion e-commerce store with product catalogue and order management | Next.js 16 · React 19 · MongoDB · Framer Motion | — |
+Client work is developed in private repositories, so the links below go straight to the running products.
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Taraji Store →](https://taraji-store.vercel.app)** | Official online store of Espérance Sportive de Tunis — the club's merchandise platform | Next.js 15 · React 19 · TypeScript · Tailwind · shadcn/ui |
+| **[EST Official →](https://est-off.vercel.app)** | Official site of Espérance Sportive de Tunis — news, fixtures, honours and club history | Next.js 15 · React 19 · TypeScript · Framer Motion |
+| **[TuniTest →](https://tunitest.vercel.app)** | Educational-books platform for Tunisian schools, covering primaire through lycée, with real school clients | Next.js 16 · React 19 · MongoDB · Framer Motion |
+| **[Tunisia Real Estate →](https://real-estate-marketplace-phi.vercel.app)** | Property marketplace — apartments, villas, houses and offices with advanced filtering and bilingual support | Next.js 16 · React 19 · TypeScript · Tailwind |
+| **[WorkTrack →](https://work-track-theta-rosy.vercel.app)** | Remote-team productivity tool — task tracking, time logging, team metrics, JWT auth and an AI assistant | Next.js 16 · React 19 · MongoDB · Tailwind |
 
 ## Experience
 
